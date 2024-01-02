@@ -16,7 +16,7 @@ Welcome to the Recipe Generator Project to elevate your culinary experience!
 ###  :electric_plug: Installation
 1. clone the project directory to the designated location
 ```
-https://github.com/870712pokohu/recipegenerator-client.git
+git clone https://github.com/870712pokohu/recipegenerator-client.git
 ```
 2. Restore the project dependencies
 ```
