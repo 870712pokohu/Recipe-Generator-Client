@@ -10,6 +10,7 @@ Welcome to the Recipe Generator Project to elevate your culinary experience!
 - Support recipe search features, allowing users to search by category or keywords.
 - Provide an in-built random recipe generator feature, efficiently reducing web browsing time. 
 - Utilize Tailwind CSS and Material-UI to ensure a clean, responsive web design with the dark mode feature.
+- [Navigate to backend API](https://github.com/870712pokohu/recipegenerator-api_csharp)
 
 ## :zap: Usage
 
